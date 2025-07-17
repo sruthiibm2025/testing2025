@@ -1,3 +1,3 @@
 # testing2025
 
-# Add instructions here
+# Add instructions here for training
